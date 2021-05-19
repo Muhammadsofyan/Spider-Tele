@@ -2,6 +2,7 @@ from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
 import csv
+print("===== Spider Tele=====")
 
 api_id = 5468352
 api_hash = 'e3ba4ad7a8ba4e0de230166a20028256'
